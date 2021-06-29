@@ -26,7 +26,7 @@ html {
   scroll-behavior: smooth;
 }
 a:hover {
-    color: #12c6f4;
+    color: #dfcc9d;
     text-decoration: underline;
 }
  body {
@@ -194,7 +194,7 @@ p {
      margin-top: 20px !important;
 }
 .dark_bg {
-     background: #282e40;
+     background: #4f5847;
 }
  .full {
      width: 100%;
@@ -222,7 +222,7 @@ p {
      font-weight: 400;
      position: relative;
      letter-spacing: -0.5px;
-     color: #282e40;
+     color: #4f5847;
      border-left: solid #38c8a8 10px;
      padding-left: 15px;
 }
@@ -245,7 +245,7 @@ p {
 }
  .small_main_heading h2 {
      padding: 2px 0 20px 0;
-     color: #282e40;
+     color: #4f5847;
      font-weight: 400;
      font-size: 28px;
      background-image: url('../images/fevicon.png');
@@ -258,7 +258,7 @@ p {
      font-weight: 600;
 }
 .main_bt {
-    background: #282e40;
+    background: #4f5847;
     color: #fff;
     padding: 0;
     float: left;
@@ -277,7 +277,7 @@ p {
      text-decoration: underline !important;
 }
  .main_bt:hover, .main_bt:focus {
-     background: #5293b7;
+     background: #dfcc9d;
      color: #fff;
 }
 .button_section {
@@ -383,13 +383,13 @@ p {
     text-align: center !important;
 }
 .theme_blue {
-     color: #12c6f4 !important; 
+     color: #dfcc9d !important; 
 }
 /*--------------------------------------------------------------------- header area ---------------------------------------------------------------------*/
 .header {
     background: #fff;
     padding: 21px 0px;
-    border-top: solid #282e40 23px;
+    border-top: solid #4f5847 23px;
     position: relative;
 }
 .header::after {
@@ -917,7 +917,7 @@ p {
      background: #ffffff;
 }
  .main-menu ul>li .sub-down li a {
-     color: #282e40;
+     color: #4f5847;
      font-size: 15px;
      text-transform: capitalize;
      font-weight: 300;
@@ -1148,7 +1148,7 @@ p {
      padding-left: 15px;
 }
  .dark_bg {
-     background: #282e40;
+     background: #4f5847;
 }
 /*--------------------------------------------------------------------- top banner area ---------------------------------------------------------------------*/
  .slider_section {
@@ -1477,7 +1477,7 @@ p {
     font-size: 45px;
     font-weight: 500;
     text-align: left;
-    color: #282e40;
+    color: #4f5847;
 }
  .about .aboutimg {
     text-align: center;
@@ -1614,7 +1614,7 @@ p {
      background-color: #fff;
 }
  .contact_form {
-     background: #282e40;
+     background: #4f5847;
      padding: 45px;
 }
  .carousel-control-next {
@@ -1670,7 +1670,7 @@ p {
     padding: 25px 25px;
     color: #fff;
     border-radius: 0;
-    background: #282e40;
+    background: #4f5847;
     height: 75px;
     color: #fff;
     max-width: 568px;
@@ -1678,7 +1678,7 @@ p {
 }
 .form-control:focus, .form-control:hover {
      border: none !important;
-     background: #282e40;
+     background: #4f5847;
 }
 .textarea {
     margin-bottom: 37px;
@@ -1688,7 +1688,7 @@ p {
     border: none;
     border-radius: 0;
     min-height: 145px;
-    background: #282e40;
+    background: #4f5847;
     width: 100%;
     font-size: 1rem;
     line-height: 1.5em;
@@ -1708,7 +1708,7 @@ p {
      color: #fff;
 }
 .footer {
-    background-color: #282e40;
+    background-color: #4f5847;
 }
  .footer .JJcoach {
     margin-top: 45px;
@@ -1786,7 +1786,7 @@ p {
      align-items: center;
 }
 .copyright {
-    background-color: #046882;
+    background-color: #dfcc9d;
     padding: 10px 0px;
     float: left;
     width: 100%;
@@ -1802,14 +1802,14 @@ p {
     color: #fff;
 }
  .copyright a:hover {
-    color: #12c6f4;
+    color: #dfcc9d;
 }
 /*--------------------------------------------------------------------- inner_page css ---------------------------------------------------------------------*/
  .about_page .about {
     margin-bottom: 90px;
 }
  .about-bg {
-     background-color: #12c6f4;
+     background-color: #dfcc9d;
      margin-bottom: 90px;
 }
  .about-bg .abouttitle h2 {
@@ -1909,7 +1909,7 @@ p {
 .main_heading_1 h2 {
     font-size: 75px;
     font-weight: 700;
-    color: #5293b7;
+    color: #dfcc9d;
     padding: 0;
     margin-top: 50px;
 }
@@ -1921,7 +1921,7 @@ p {
     z-index: 1;
 }
 .blog_blue {
-    background: #12c6f4;
+    background: #dfcc9d;
     margin-top: -1px;
     position: relative;
 }
@@ -1933,7 +1933,7 @@ p {
     position: absolute;
     top: -30px;
     left: -5%;
-    background: #12c6f4;
+    background: #dfcc9d;
     transform: rotate(6deg);
 }
 header {
@@ -1941,7 +1941,7 @@ header {
     z-index: 999;
 }
 button.main_bt {
-    background: #12c6f4;
+    background: #dfcc9d;
     color: #111;
 }
 footer p a {
@@ -1983,11 +1983,61 @@ footer input {
 
 footer button {
 
-    background: #12c6f4;
+    background: #dfcc9d;
     width: 95px;
     height: 48px;
 
 }
+
+#testimonials {
+    background-color: white;
+  }
+  
+  .testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+    font-family: Poppins;
+  }
+  
+  .testimonial-text3 {
+    font-size: 2rem;
+    line-height: 1.5;
+    font-family: Poppins;
+  }
+  
+  .testimonial-text2 {
+    font-size: 2rem;
+    line-height: 1.5;
+    padding-bottom: 5%;
+  }
+  
+  .testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+  
+  
+  #press {
+    background-color: #f5a7a7;
+    padding-bottom: 3%;
+  }
+  
+  .press-logo {
+    color: #b5076b;
+    text-align: center;
+    font-family: Bree Serif;
+    font-size: 3rem;
+    padding-top: 3%;
+    font-weight: medium;
+  }
+  
+  .press-logo-p{
+    color: #b5076b;
+    text-align: center;
+    font-family: "Baloo 2";
+    font-size: 2rem;
+  }
 
 
  
