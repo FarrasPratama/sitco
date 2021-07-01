@@ -65,10 +65,11 @@ a:hover {
      font-size: 22px 
 }
 h3 {
-    font-size: 25px;
+    font-size: 30px;
     margin: 25px 0 0 0;
     padding: 0;
     line-height: 25px;
+    color: #dfcc9d;
 }
 h3 strong {
     font-weight: 300;
@@ -126,7 +127,7 @@ p {
      transition: all .3s ease-in-out;
 }
 .img-responsive {
-     max-width: 100%;
+     max-width: 50%;
      height: auto;
 }
  :focus {
@@ -248,7 +249,7 @@ p {
      color: #4f5847;
      font-weight: 400;
      font-size: 28px;
-     background-image: url('../images/fevicon.png');
+     background-image: url('images/fevicon.png');
      background-repeat: no-repeat;
      padding-left: 55px;
      letter-spacing: -0.5px;
@@ -284,6 +285,7 @@ p {
     padding-top: 185px;
     float: left;
 }
+
 /**-- list icon --**/
  .ul_list_info_icon ul {
      list-style: none;
@@ -985,7 +987,7 @@ p {
      display: inline-block;
      vertical-align: middle;
 }
- .main-menu ul>li:nth-child (6) {
+ .main-menu ul>li:nth-child(6) {
      padding-right: 0px;
 }
  .nav>li {
@@ -1942,7 +1944,7 @@ header {
 }
 button.main_bt {
     background: #dfcc9d;
-    color: #111;
+    color: #fff;
 }
 footer p a {
     color: #fff;
@@ -2037,6 +2039,14 @@ footer button {
     text-align: center;
     font-family: "Baloo 2";
     font-size: 2rem;
+  }
+
+  #more{
+      display: none;
+  }
+
+  #myBtn{
+      color: #fff;
   }
 
 

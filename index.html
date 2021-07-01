@@ -106,12 +106,39 @@
                                 <div class="heading margin_top_30">
                                     <h2>Company Profile</h2>
                                 </div>
+                                
                                 <div class="full margin_top_20">
-                                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>SITCO is a company engaged in the export of natural products. Currently, we are focused and expert on the Konjac commodity. We also have certifications for the products we manufacture. In addition to being one of Indonesia's prima donna products, Konjac has an export market to improve people's welfare and national economic growth. In addition, we also provide various requests for other natural resource products according to buyer requests.</p>
+                                    <span id="dots">...</span><span id="more">
+                                    <br><h3>Vision</h3><br><p>To become a competitive, reliable, and trusted World-Class commodity company in the field of General Trading and has a Marketing Network at Home and Abroad.</p>
+                                    <br><h3>Mission</h3><br><p>carry out trade in general and specifically in the field of natural commodities commercially and measurably.<br>
+                                        2. serve local and international trade transactions. <br>
+                                        3. Establish partnerships with all communities engaged in commodities and agriculture.</p><br>
+                                        4. Improving the welfare of work partners and company members.
+                                        <br><h3>Corporate Value</h3><br><p> Integrity, we prioritize honesty to be trusted as a partner and impartiality.<br>
+                                            2. Customer Priority, we focus on prioritizing customers in carrying out and completing the work that has been entrusted to us, especially in terms of quality and added value offered.<br>
+                                            3.Qualification, we constantly improve the quality to produce innovative products and services expected by customers and stakeholders.
+                                            </p>
+                                        </span>
                                 </div>
                                 <div class="full margin_top_30">
-                                    <a class="main_bt" href="#">Read More</a>
+                                    <button><a class="main_bt" onclick="myFunction()" id="myBtn">Read More</a></button>
                                 </div>
+                                <script>function myFunction() {
+                                    var dots = document.getElementById("dots");
+                                    var moreText = document.getElementById("more");
+                                    var btnText = document.getElementById("myBtn");
+                                  
+                                    if (dots.style.display === "none") {
+                                      dots.style.display = "inline";
+                                      btnText.innerHTML = "Read more"; 
+                                      moreText.style.display = "none";
+                                    } else {
+                                      dots.style.display = "none";
+                                      btnText.innerHTML = "Read less"; 
+                                      moreText.style.display = "inline";
+                                    }
+                                  }</script>
                             </div>
                         </div>
                     </div>
@@ -131,7 +158,7 @@
             <div class="row">
                <div class="col-md-4 margin_top_30">
                     <div class="full fr">
-                        <img class="img-responsive" src="images/f1.png" alt="#" />
+                        <img class="img-responsive" src="images/f1.jpg" alt="#" />
                     </div>
                     <div class="full text_align_center">
                         <h3 class="white_font">Black Grapes<br><strong class="theme_blue">Fresh Fruit</strong></h3>
@@ -139,7 +166,7 @@
                 </div>
                 <div class="col-md-4 margin_top_30">
                     <div class="full fr">
-                        <img class="img-responsive" src="images/f2.png" alt="#" />
+                        <img class="img-responsive" src="images/f2.jpeg" alt="#" />
                     </div>
                     <div class="full text_align_center">
                         <h3 class="white_font">Pineapple<br><strong class="theme_blue">Fresh Fruit</strong></h3>
@@ -147,7 +174,7 @@
                 </div>
                 <div class="col-md-4 margin_top_30">
                     <div class="full fr">
-                        <img class="img-responsive" src="images/f3.png" alt="#" />
+                        <img class="img-responsive" src="images/f3.jpeg" alt="#" />
                     </div>
                     <div class="full text_align_center">
                         <h3 class="white_font">Bananas<br><strong class="theme_blue">Fresh Fruit</strong></h3>
@@ -318,6 +345,7 @@
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/jquery-3.0.0.min.js"></script>
     <script src="js/plugin.js"></script>
+    <script src="js/script.js"></script>
 
     <!-- sidebar -->
     <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
