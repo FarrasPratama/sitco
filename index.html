@@ -124,21 +124,6 @@
                                 <div class="full margin_top_30">
                                     <button><a class="main_bt" onclick="myFunction()" id="myBtn">Read More</a></button>
                                 </div>
-                                <script>function myFunction() {
-                                    var dots = document.getElementById("dots");
-                                    var moreText = document.getElementById("more");
-                                    var btnText = document.getElementById("myBtn");
-                                  
-                                    if (dots.style.display === "none") {
-                                      dots.style.display = "inline";
-                                      btnText.innerHTML = "Read more"; 
-                                      moreText.style.display = "none";
-                                    } else {
-                                      dots.style.display = "none";
-                                      btnText.innerHTML = "Read less"; 
-                                      moreText.style.display = "inline";
-                                    }
-                                  }</script>
                             </div>
                         </div>
                     </div>
@@ -188,13 +173,23 @@
     <div class="section layout_padding">
         <div class="container">
             <div class="row">
-               <div class="col-md-6">
-                    <div class="full main_heading_1">
-                        <h2>Porang</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing el sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure doloreprehenderin </p>
-                    </div>   
+                <div class="col-md-6">
+                    <div class="heading margin_top_30">
+                        <h2>Konjac</h2>
+                    </div>
+                    <div class="full margin_top_20">
+                        <p>The konjac plant (Amorphophallus konjac) grows on slopes 2000 to 4000 ft above sea level, where it enjoys the habitat’s clean air and water. Today, konjac plants are grown in Japan, Korea, Indonesia, and China. The edible part of the konjac plant is the root which resembles an oval shaped taro or yam potato. The konjac plant has a starchy root called a corm. This is high in a type of dietary fiber called glucomannan. Manufacturers use this part of the plant as a dietary supplement and in the production of high fiber flour and jellies. </p>
+                        <span id="dots">...</span>
+                        <span id="more">
+                            <br><p>Konjac has several potential health benefits. Many of these benefits relate to its high content of glucomannan, the soluble dietary fiber that naturally occurs in the konjac plant. Soluble fiber helps lower cholesterol and blood glucose levels. A diet high in fiber may also help regulate bowel movements, prevent hemorrhoids, and help prevent diverticular disease. Also, Konjac is used as a gelatin substitute and to thicken or add texture to foods. It’s also used in traditional Chinese medicine. In the Western world, konjac is best known as a dietary supplement for weight loss and cholesterol management.</p>
+                            <br><h3>Several different products use konjac corm, including:</h3><br>
+                            <p>Konjac flour: Producers make this by grinding down dry konjac corms to make flour. People can then use this to make noodles.<br>
+                            Konjac jelly: After further processing, konjac flour can form a jelly or gum. This can serve as an alternative to gelatin, which people can use as a food thickener.<br>
+                            Konjac soluble fiber: Purifying konjac jelly further turns it into a soluble fiber that serves as a dietary supplement.</p>
+                        </span>
+                    </div>
                     <div class="full margin_top_30">
-                        <a class="main_bt" href="#">Read More</a>
+                        <button><a class="main_bt" onclick="myFunction()" id="myBtn">Read More</a></button>
                     </div>
                 </div>
                 <div class="col-md-6 margin_top_30 padding_right_0">
