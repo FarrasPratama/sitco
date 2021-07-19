@@ -171,6 +171,9 @@ p {
      float: left;
      width: 100%;
 }
+.float-left{
+    width: 150%;
+}
  .layout_padding {
      padding-top: 90px;
      padding-bottom: 90px;
@@ -2049,6 +2052,23 @@ footer button {
 
   #myBtn{
       color: #fff;
+  }
+
+  .news{
+      width: 54px;
+  }
+
+  #overlay, #overlay1, #overlay2{
+      display: none;
+  }
+
+  #catalogue{
+      background-color: #4f5847;
+      color: #dfcc9d;
+  }
+
+  #dots2{
+    color: #dfcc9d;
   }
 
 
