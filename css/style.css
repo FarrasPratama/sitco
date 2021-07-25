@@ -2063,13 +2063,20 @@ footer button {
   }
 
   #catalogue{
-      background-color: #4f5847;
-      color: #dfcc9d;
+      background-color: #dfcc9d;
+      color: #4f5847;
   }
 
   #dots2{
-    color: #dfcc9d;
+    color: #4f5847;
   }
 
+  .bg_green{
+      background-color: #dfcc9d;
+  }
+
+  #text{
+      color: #4f5847;
+  }
 
  
