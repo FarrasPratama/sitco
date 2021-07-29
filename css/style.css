@@ -409,7 +409,7 @@ p {
     transform: skew(-30deg);
 }
 .logo {
-    width: 140px;
+    width: 120px;
      float: left;
 }
  nav.main-menu {
@@ -2046,11 +2046,11 @@ footer button {
     font-size: 2rem;
   }
 
-  #more{
+  #more, #more2{
     display: none;
   }
 
-  #myBtn{
+  #myBtn, #myBtn1{
       color: #fff;
   }
 
@@ -2063,7 +2063,7 @@ footer button {
   }
 
   #catalogue{
-      padding-bottom: 20px;
+      padding: 20px;
       background-color: #dfcc9d;
       color: #4f5847;
   }
