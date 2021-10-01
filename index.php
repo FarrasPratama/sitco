@@ -342,7 +342,7 @@
         </div>
         <div class="copyright">
             <div class="container">
-                <p>Copyright 2021 All Right Reserved By <a href="https://html.design/">Farras Pratama</a></p>
+                <p>Copyright 2021 All Right Reserved By <a href="https://www.instagram.com/pratamafarras/">Farras Pratama</a></p>
             </div>
         </div>
     </footer>
