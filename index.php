@@ -148,7 +148,7 @@
                         <a onclick="on()"><img class="img-responsive" src="images/f3.jpeg" alt="#" /></a>
                     </div>
                     <div class="full text_align_center bg_green">
-                        <h3 class="white_font">Grade A<br><strong class="theme_blue"><button id="catalogue" onclick="on()">Konjac Chip which comes from the core of the Konjac Bulb. <span id="dots2" onclick="on()">...</span></button>
+                        <h3 class="white_font">Grade A<br><strong class="theme_blue"><button id="catalogue" onclick="on()">Konjac Chip which comes from the core of the Konjac. <span id="dots2" onclick="on()">...</span></button>
                             <div id="overlay" onclick="off()">
                                 <div id="text">With an oven drying system and then perfected by drying in the sun, we offer superior konjac chips with the best moisture content of 11.5%.</div>
                             </div></strong></h3>
@@ -159,7 +159,7 @@
                         <a onclick="on1()"><img class="img-responsive" src="images/f2.jpeg" alt="#"/></a>
                     </div>
                     <div class="full text_align_center bg_green">
-                        <h3 class="white_font">Grade B<br><strong class="theme_blue"><button id="catalogue" onclick="on1()">Konjac Chip that comes from the middle of the Konjac Bulb. <span id="dots21" onclick="on()">...</span></button>
+                        <h3 class="white_font">Grade B<br><strong class="theme_blue"><button id="catalogue" onclick="on1()">Konjac Chip that comes from the middle of the Konjac. <span id="dots21" onclick="on()">...</span></button>
                             <div id="overlay1" onclick="off1()">
                                 <div id="text">With an oven drying system and then perfected by drying in the sun, we offer superior konjac chips with the best moisture content of 11.5%.</div>
                             </div></strong></h3>
@@ -170,7 +170,7 @@
                         <a onclick="on2()"><img class="img-responsive" src="images/f1.jpg" alt="#" /></a>
                     </div>
                     <div class="full text_align_center bg_green">
-                        <h3 class="white_font">Grade C<br><strong class="theme_blue"><button id="catalogue" onclick="on2()">Konjac Chip comes from the outermost part of the Konjac Bulb. <span id="dots22" onclick="on()">...</span></button>
+                        <h3 class="white_font">Grade C<br><strong class="theme_blue"><button id="catalogue" onclick="on2()">Konjac Chip comes from the outermost part of the Konjac. <span id="dots22" onclick="on()">...</span></button>
                             <div id="overlay2" onclick="off2()">
                                 <div id="text">However, the quality of grade C is not much different from that of A and B. With an oven drying system and then perfected by drying in the sun, we offer superior konjac chips with the best moisture content of 11.5%.</div>
                             </div></strong></h3>
