@@ -1677,7 +1677,7 @@ p {
     padding: 25px 25px;
     color: #fff;
     border-radius: 0;
-    background: #4f5847;
+    background: #7cd6a2;
     height: 75px;
     color: #fff;
     max-width: 568px;
@@ -1685,7 +1685,7 @@ p {
 }
 .form-control:focus, .form-control:hover {
      border: none !important;
-     background: #4f5847;
+     background: #e48d00;
 }
 .textarea {
     margin-bottom: 37px;
@@ -1695,7 +1695,7 @@ p {
     border: none;
     border-radius: 0;
     min-height: 145px;
-    background: #4f5847;
+    background: #7cd6a2;
     width: 100%;
     font-size: 1rem;
     line-height: 1.5em;
