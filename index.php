@@ -311,7 +311,7 @@
                     <div class="row">
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <h3>Contact Us</h3>
-                            <p>Suko Legok,Sukodono,Sidoarjo,East java , Indonesia (61258)<br><br>(+62) 812 3045 5099 (CEO)<br><br>Sitco1442@gmail.com</p>
+                            <p>Suko Legok, Sukodono, Sidoarjo, East java, Indonesia (61258)<br><br>(+62) 812 3045 5099 (CEO)<br><br>Sitco1442@gmail.com</p>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <h3>Pages</h3>

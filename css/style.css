@@ -1677,7 +1677,7 @@ p {
     padding: 25px 25px;
     color: #fff;
     border-radius: 0;
-    background: #7cd6a2;
+    background: #4f5847;
     height: 75px;
     color: #fff;
     max-width: 568px;
@@ -1685,7 +1685,7 @@ p {
 }
 .form-control:focus, .form-control:hover {
      border: none !important;
-     background: #e48d00;
+     background: #dfcc9d;
 }
 .textarea {
     margin-bottom: 37px;
@@ -1695,7 +1695,7 @@ p {
     border: none;
     border-radius: 0;
     min-height: 145px;
-    background: #7cd6a2;
+    background: #dfcc9d;
     width: 100%;
     font-size: 1rem;
     line-height: 1.5em;
@@ -1947,10 +1947,6 @@ header {
     position: relative;
     z-index: 999;
 }
-button.main_bt {
-    background: #dfcc9d;
-    color: #fff;
-}
 footer p a {
     color: #fff;
     line-height: 30px;
@@ -1991,6 +1987,7 @@ footer input {
 footer button {
 
     background: #dfcc9d;
+    color: #fff;
     width: 95px;
     height: 48px;
 

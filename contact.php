@@ -11,7 +11,7 @@ include('phpmailer/SMTP.php');
 
 $email_pengirim = 'pratama007fr@gmail.com'; // Isikan dengan email pengirim
 $nama_pengirim = $_POST['nama']; // Isikan dengan nama pengirim
-$email_penerima = 'taufikgoodman@gmail.com'; // Ambil email penerima dari inputan form
+$email_penerima = 'pratamafarras24@gmail.com'; // Ambil email penerima dari inputan form
 $subjek = $_POST['subjek']; // Ambil subjek dari inputan form
 $pesan = $_POST['pesan']; // Ambil pesan dari inputan form
 
