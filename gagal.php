@@ -107,6 +107,49 @@
     <script src="js/script.js"></script>
 
     <!-- sidebar -->
+     <!-- footer -->
+     <footer>
+        <div class="footer layout_padding">
+            <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+                            <h3>Contact Us</h3>
+                            <p>Suko Legok, Sukodono, Sidoarjo, East java, Indonesia (61258)<br><br>(+62) 812 3045 5099 (CEO)<br><br>Sitco1442@gmail.com</p>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+                            <h3>Pages</h3>
+                            <p>
+                              <a href="#home">Home</a><br>
+                              <a href="#about">About Us</a><br>
+                              <a href="#fruits">Fruits</a><br>
+                              <a href="#blog">Blog</a><br>
+                              <a href="#contact">Contact Us</a>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+                            <h3>Recent Post</h3>
+                            <p><span><img class="news" src="images/f_b1.png"></span><span>Fantastis, Nilai Ekspor<br>Porang Tahun 2020 ...</span></p>
+                            <p class="margin_top_20"><span><img class="news" src="images/f_b2.png"></span><span>Konjac: 6 Potential<br>Health Benefit</span></p>
+                            <p class="margin_top_20"><span><img class="news" src="images/f_b3.png"></span><span>Blog: Import-Export<br> </span></p>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+                            <h3>Newsletter</h3>
+                            <p>
+                                <form>
+                                    <input type="text" name="email" placeholder="Enter Your Email" /> 
+                                    <button>Subscribe</button>
+                                </form>
+                            </p>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <div class="container">
+                <p>Copyright 2021 All Right Reserved By <a href="https://www.instagram.com/pratamafarras/" target="_blank" rel="noopener noreferrer">Farras Pratama</a></p>
+            </div>
+        </div>
+    </footer>
+    <!-- end footer -->
     <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
     <script src="js/custom.js"></script>
 </body>

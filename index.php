@@ -225,6 +225,7 @@
             </div>
             <div class="row">
                <div class="col-md-4 margin_top_30">
+                    <a href="https://pangan.sariagri.id/68276/fantastis-nilai-ekspor-porang-tahun-2020-tembus-rp1-42-triliun" target="_blank" rel="noopener noreferrer">
                     <div class="full" style="overflow: hidden;">
                     <div class="full bl">
                         <img class="img-responsive" src="images/f_b1.png" alt="#" />
@@ -233,9 +234,11 @@
                         <h5 class="white_font">Post by m.sariagri.id 25/03/2020</h3>
                         <p>Fantastis, Nilai Ekspor Porang Tahun 2020 Tembus Rp1,42 Triliun</p>
                     </div> 
-                     </div>  
+                    </div>  
+                    </a>
                 </div>
                 <div class="col-md-4 margin_top_30">
+                    <a href="https://www.medicalnewstoday.com/articles/319979#what-is-konjac" target="_blank" rel="noopener noreferrer">
                     <div class="full" style="overflow: hidden;">
                     <div class="full bl">
                         <img class="img-responsive" src="images/f_b2.png" alt="#" />
@@ -244,9 +247,11 @@
                         <h5 class="white_font">Post by Lana Burgess 13/12/2019</h3>
                         <p>Konjac: 6 Potential Health Benefit</p>
                     </div>
-                     </div>
+                    </div>
+                    </a>
                 </div>
                 <div class="col-md-4 margin_top_30">
+                    <a href="https://www.cekindo.com/blog/import-export" target="_blank" rel="noopener noreferrer">
                     <div class="full" style="overflow: hidden;">
                     <div class="full bl">
                         <img class="img-responsive" src="images/f_b3.png" alt="#" />
@@ -256,6 +261,7 @@
                         <p>Blog: Import-Export</p>
                     </div>
                     </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -311,7 +317,7 @@
                     <div class="row">
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <h3>Contact Us</h3>
-                            <p>Suko Legok, Sukodono, Sidoarjo, East java, Indonesia (61258)<br><br>(+62) 812 3045 5099 (CEO)<br><br>Sitco1442@gmail.com</p>
+                            <p>Sidoarjo, East java, Indonesia (61258)<br><br>(+62) 812 3045 5099 (CEO)<br><br>Sitco1442@gmail.com</p>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <h3>Pages</h3>
@@ -324,16 +330,22 @@
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <h3>Recent Post</h3>
-                            <p><span><img class="news" src="images/f_b1.png"></span><span>Fantastis, Nilai Ekspor<br>Porang Tahun 2020 ...</span></p>
-                            <p class="margin_top_20"><span><img class="news" src="images/f_b2.png"></span><span>Konjac: 6 Potential<br>Health Benefit</span></p>
-                            <p class="margin_top_20"><span><img class="news" src="images/f_b3.png"></span><span>Blog: Import-Export<br> </span></p>
+                            <a href="https://pangan.sariagri.id/68276/fantastis-nilai-ekspor-porang-tahun-2020-tembus-rp1-42-triliun" target="_blank" rel="noopener noreferrer">
+                                <p><span><img class="news" src="images/f_b1.png"></span><span>Fantastis, Nilai Ekspor<br>Porang Tahun 2020 ...</span></p>
+                            </a>
+                            <a href="https://www.medicalnewstoday.com/articles/319979#what-is-konjac" target="_blank" rel="noopener noreferrer">
+                                <p class="margin_top_20"><span><img class="news" src="images/f_b2.png"></span><span>Konjac: 6 Potential<br>Health Benefit</span></p>
+                            </a>
+                            <a href="https://www.cekindo.com/blog/import-export" target="_blank" rel="noopener noreferrer">
+                                <p class="margin_top_20"><span><img class="news" src="images/f_b3.png"></span><span>Blog: Import-Export<br> </span></p>
+                            </a>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <h3>Newsletter</h3>
                             <p>
-                                <form>
-                                    <input type="text" name="email" placeholder="Enter Your Email" /> 
-                                    <button>Subscribe</button>
+                                <form action="contact.php" method="POST" enctype="multipart/form-data">
+                                    <input placeholder="Enter Your Email" type="Email" name="email" required="">
+                                    <button name="submit">Subscribe</button>
                                 </form>
                             </p>
                         </div>
@@ -342,7 +354,7 @@
         </div>
         <div class="copyright">
             <div class="container">
-                <p>Copyright 2021 All Right Reserved By <a href="https://www.instagram.com/pratamafarras/">Farras Pratama</a></p>
+                <p>Copyright 2021 All Right Reserved By <a href="https://www.instagram.com/pratamafarras/" target="_blank" rel="noopener noreferrer">Farras Pratama</a></p>
             </div>
         </div>
     </footer>
